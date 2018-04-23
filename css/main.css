@@ -153,7 +153,12 @@ footer hr {
 }
 
 .foot-wrap-right-img {
-    align: center;
+    padding-top: 20px;
+}
+.foot-wrap-right-img  img{
+    display: blcok;
+    width: 80%;
+    margin: auto auto 1px auto;
 }
 
 /* footer end */ 
