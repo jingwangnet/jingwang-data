@@ -134,13 +134,13 @@ h2 {
     padding: 30px 20px;
     font-size: 25px;
     font-weight: 600;
-    margin-bottom: 20px;
 }
 
 /* main end */
 
 /* footer start */
 footer a, footer {
+    margin-top: 30px;
     color: #777;
 }
 
